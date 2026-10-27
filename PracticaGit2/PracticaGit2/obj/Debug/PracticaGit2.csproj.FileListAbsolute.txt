@@ -1,0 +1,7 @@
+C:\Users\CC2_PC18\Downloads\Documents\PracticaGit2\PracticaGit2\bin\Debug\PracticaGit2.exe
+C:\Users\CC2_PC18\Downloads\Documents\PracticaGit2\PracticaGit2\bin\Debug\PracticaGit2.pdb
+C:\Users\CC2_PC18\Downloads\Documents\PracticaGit2\PracticaGit2\obj\Debug\PracticaGit2.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC18\Downloads\Documents\PracticaGit2\PracticaGit2\obj\Debug\PracticaGit2.MainForm.resources
+C:\Users\CC2_PC18\Downloads\Documents\PracticaGit2\PracticaGit2\obj\Debug\PracticaGit2.csproj.GenerateResource.Cache
+C:\Users\CC2_PC18\Downloads\Documents\PracticaGit2\PracticaGit2\obj\Debug\PracticaGit2.exe
+C:\Users\CC2_PC18\Downloads\Documents\PracticaGit2\PracticaGit2\obj\Debug\PracticaGit2.pdb
